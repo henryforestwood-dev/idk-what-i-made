@@ -17,7 +17,7 @@ namespace Coolultrakill
     }
     class v1
     {
-        static public int health = 100;
+        static public int health = 100; // I KNOW THIS IS FLAWED IM TOO LAZY TO FIX IT
 
 
 
